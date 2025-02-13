@@ -169,7 +169,8 @@ img {
 
 .main-title {
   max-width: 496px;
-  margin-bottom: 48px;
+  margin: 0 auto 48px;
+
 }
 
 .button-container {
