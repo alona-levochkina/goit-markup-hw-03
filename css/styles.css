@@ -257,13 +257,14 @@ gap: 24px;
   color: #2e2f42;
   text-transform: capitalize;
   margin: 0 auto 72px;
-  border-radius: 0 0 4px 4px;
+  
 }
 
 .team-list {
   display: flex;
   gap: 24px;
   flex-basis: calc((100% - 24px * 3) / 4);
+  border-radius: 0 0 4px 4px;
 }
 
 .page-team-title {
